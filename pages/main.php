@@ -35,13 +35,13 @@
 <div id="homecontent" class="page">
 	<div class="page-content">
 		<p>
-			PyMT is an open source library under LGPL Licence, for developing multi-touch applications.  It is completely cross platform (Linux/OSX/Win).
+			PyMT is an open source library for developing multi-touch applications. It is completely cross platform (Linux/OSX/Win) and released under the terms of the GNU LGPL.
 		</p>
 		<p>
 			It comes with native support for many multi-touch input devices, a growing library of multi-touch aware widgets, hardware accelerated OpenGL drawing, and an architecture that is designed to let you focus on building custom and highly interactive applications as quickly and easily as possible.
 		</p>
 		<p>
-			Because PyMT is a pure Python library, you can take advantage of its highly dynamic nature and use any of the thousands of high quality and open source python libraries out there.
+			Since PyMT is a pure Python library, you can take advantage of its highly dynamic nature and use any of the thousands of high quality and open source python libraries out there.
 		</p>
 	</div>
 </div>
@@ -51,7 +51,7 @@
 	<div class="page-content">
 		<h2>Stable version</h2>
 		<p>
-			Latest stable version is <?=$version?>, released on <?=$date?>. See <a href="?page=releasenotes">Release Notes</a> for more details.
+			The latest stable version is <?=$version?>, released on <?=$date?>. See <a href="?page=releasenotes">Release Notes</a> for more details.
 		</p>
 		<table>
 			<tr>
@@ -72,13 +72,13 @@
 			</tr>
 		</table>
 
-		<p>You can have the complete list of availables packages on Pypi. Check the <a href="http://pypi.python.org/pypi/PyMT">PyMT Pypi page</a> for more informations.
+		<p>You can get the complete list of availables packages on PyPI. Check the <a href="http://pypi.python.org/pypi/PyMT">PyMT PyPI page</a> for more information.
 
 		<h2>Source code</h2>
 
 		<p>
-			We actually use <a href="http://github.com/">Github</a> for hosting our development version of PyMT.
-			Take a look about <a href="http://pymt.txzone.net/wiki/index.php/DevGuide/GrabSourceCode">how to grab the source code</a> on the wiki !
+			We use <a href="http://github.com/">Github</a> for hosting our development version of PyMT.
+			Take a look at our instructions on <a href="http://pymt.txzone.net/wiki/index.php/DevGuide/GrabSourceCode">how to grab the source code</a> on our wiki!
 		</p>
 	</div>
 </div>
@@ -95,10 +95,10 @@
 
 		<h2>Contribute</h2>
 		<p>
-			If you have found a bug, want a feature, you can report it on our <a href="http://code.google.com/p/pymt/issues/list">Bug tracker</a>.
+			If you have found a bug or want a feature, you can report it on our <a href="http://code.google.com/p/pymt/issues/list">Bug tracker</a>.
 		</p>
 		<p>
-			If you need some advices or help, you can write on <a href="http://groups.google.com/group/pymt-users">PyMT Users mailing list</a>, or if you are aware of IRC, you can join us on #pymt @ irc.freenode.net.
+			If you need advice or help, you can send a mail to the <a href="http://groups.google.com/group/pymt-users">PyMT Users mailing list</a>, or if you know IRC, you can /join us on #pymt @ irc.freenode.net.
 		</p>
 	</div>
 </div>

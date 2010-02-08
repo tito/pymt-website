@@ -19,7 +19,7 @@
 				<a href="."><img src="styles/logo.png" title="PyMT"/></a>
 			</div>
 			<div id="release">
-				PyMT <?=$version?>, released the <?=$date?>.<br/>
+				PyMT <?=$version?>, released on <?=$date?>.<br/>
 				<a href="#download">Download now</a> - <a href="?page=releasenotes">Release notes</a>
 			</div>
 			<div id="menu">
