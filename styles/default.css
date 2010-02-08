@@ -1,0 +1,245 @@
+body, html
+{
+	background: black url('bg_tile.png') repeat;
+	color: #2D3841;
+	font-family: 'Lucida Grande',Calibri,Verdana,sans-serif;
+	font-weight: 100;
+	margin: 0;
+}
+
+table
+{
+	width: 100%;
+	color: #BDC8D1;
+}
+
+table th,
+table td
+{
+	padding: 8px;
+}
+
+table tr:hover td
+{
+	background-color: #393939;
+}
+
+table th
+{
+	background-color: #191919;
+}
+
+#header
+{
+	clear: both;
+	padding: 0px 0px 10px 20px;
+	height: 150px;
+}
+
+#wrapper
+{
+	margin: auto;
+	width: 800px;
+	color: #BDC8D1;
+}
+
+#wrapper a
+{
+	color: #24BDDF;
+	text-decoration: none;
+}
+
+#wrapper a:hover
+{
+	color: white;
+	background-color: #191919;
+}
+
+#wrapper h1
+{
+	background-color: #191919;
+	color: white;
+	letter-spacing: 2px;
+	margin: 0px;
+	padding: 8px 15px;
+	font-family: 'Lucida Grande',Calibri,Verdana,sans-serif;
+	font-weight: 100;
+}
+
+#wrapper h2
+{
+	color: white;
+	border-bottom: 2px solid #1D93C2;
+	letter-spacing: 2px;
+	font-family: 'Lucida Grande',Calibri,Verdana,sans-serif;
+	font-weight: 100;
+	margin: 0px;
+	margin-top: 10px;
+	padding: 2px 0px;
+}
+
+#wrapper table
+{
+	border-collapse: collapse;
+}
+
+#wrapper table th
+{
+	text-align: left;
+}
+
+br {
+	clear: both;
+}
+
+.page
+{
+	background-color:#232323;
+}
+
+#footer
+{
+	font-size: 60%;
+	text-align: center;
+	color: #404040;
+}
+
+#footer a
+{
+	color: #505050;
+}
+
+.page-content
+{
+	padding: 20px;
+}
+
+#page-home p
+{
+	text-indent: 20px;
+	text-align: justify;
+}
+
+/* Glider */
+div#features-glider div.scroller
+{
+	/* modify width and height of scrolling section if necessary	*/		
+	width: 800px; 
+	height: 300px;
+	overflow: hidden;
+}
+
+div#features-glider div.scroller div.section
+{
+	/* modify width and height of each section as needed (should match the size of the scroller window)	*/		
+	width: 800px;
+	height: 300px;
+	overflow: hidden;
+	float: left;
+}
+
+div#features-glider div.scroller div.content
+{
+	width: 10000px;
+}
+
+div#features-glider div.controls
+{
+	float: right;
+	margin: 20px;
+}
+
+div#features-glider div.controls a
+{
+	display: block;
+	float: left;
+	background-color: #191919;
+	color: white;
+	letter-spacing: 2px;
+	margin: 0px;
+	padding: 4px 8px;
+	font-family: 'Lucida Grande',Calibri,Verdana,sans-serif;
+	font-weight: 100;
+	margin-left: 2px;
+	position: relative;
+}
+
+div#features-glider div.controls a.active
+{
+	background-color: #1D93C2;
+}
+
+/* menu buttons
+ */
+
+#logo {
+	width: 300px;
+}
+
+#logo a img {
+	border: 0px !important;
+}
+
+#logo a:hover {
+	background: transparent;
+}
+
+#menu {
+	float: right;
+	margin-top: -3em;
+}
+
+#menu ul {
+	list-style: none outside none;
+	margin-bottom: 0;
+}
+
+#menu li {
+	list-style: none outside none;
+	font-size: 110%;
+	text-align: right;
+	float: left;
+	position: relative;
+}
+
+#menu li a {
+	padding: 10px;
+	display: block;
+	letter-spacing: 2px;
+	font-family: 'Lucida Grande',Calibri,Verdana,sans-serif;
+	font-weight: 100;
+	padding-left: 38px;
+	background-repeat: no-repeat;
+	background-position: 8px center;
+}
+
+#menu li a:hover
+{
+	color: white;
+}
+
+#menu li a.home { background-image: url('icons/home.png'); }
+#menu li a.support { background-image: url('icons/support.png'); }
+#menu li a.download { background-image: url('icons/download.png'); }
+
+
+/* release
+ */
+
+#release
+{
+	background-color: #24aDcF;
+	color: white;
+	width: auto;
+	padding: 1em;
+	position: absolute;
+	margin-left: 410px;
+	top: 1.8em;
+	text-align: center;
+	-moz-border-radius: 10px;
+}
+
+#release a
+{
+	color: #24eDfF;
+}
