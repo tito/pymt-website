@@ -7,6 +7,7 @@
 ?>
 <html>
 <head>
+	<title>PyMT</title>
 	<link rel="stylesheet" type="text/css" href="styles/default.css"/>
 	<script src="styles/prototype.js" type="text/javascript" charset="utf-8"></script> 
 	<script src="styles/effects.js" type="text/javascript" charset="utf-8"></script> 
