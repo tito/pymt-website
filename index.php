@@ -27,6 +27,7 @@
 					<li><a class="home" href="./#home">Home</a></li>
 					<li><a class="download" href="./#download">Download</a></li>
 					<li><a class="support" href="./#support">Support</a></li>
+					<li><a class="planet" href="http://pymt.txzone.net/planet/">Planet</a></li>
 				</ul>
 			</div>
 			<br/>
