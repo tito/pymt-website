@@ -5,6 +5,11 @@
 			PyMT 0.4 is a major version. Much effort has been put into it and many improvements have been made, especially right at the core.
 		</p>
 
+		<h2>Licensing change</h2>
+		<p>
+			With the approval of all contributors on PyMT Framework, we've moved from GPL3 to <a href="http://www.gnu.org/copyleft/lesser.html">GNU LGPL License</a>.
+		</p>
+
 		<h2>Backend splitting</h2>
 		<p>
 			We have redesigned our core. We wanted to avoid using Pyglet, an all-in-one library. All core tasks like window management, text rendering,
