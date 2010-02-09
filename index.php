@@ -5,9 +5,12 @@
 	if ( !in_array($page, $pages) || $page == '')
 		$page = $pages[0];
 ?>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<title>PyMT</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="stylesheet" type="text/css" href="styles/default.css"/>
 	<script src="styles/prototype.js" type="text/javascript" charset="utf-8"></script> 
 	<script src="styles/effects.js" type="text/javascript" charset="utf-8"></script> 
@@ -17,7 +20,7 @@
 	<div id="wrapper">
 		<div id="header">
 			<div id="logo">
-				<a href="."><img src="styles/logo.png" title="PyMT"/></a>
+				<a href="."><img src="styles/logo.png" title="PyMT" alt="Logo PyMT"/></a>
 			</div>
 			<div id="release">
 				PyMT <?=$version?>, released on <?=$date?>.<br/>
@@ -42,7 +45,12 @@
 				Hosted by <a href="http://ikse.net/">Ikse</a>, thanks a lot Alexx !<br/>
 				Theme inspired by <a href="http://www.preloaded.com/about/">Preloaded</a><br/>
 				<a href="mailto:tito (arobas) bankiz (dot) org">Contact the webmaster</a>
-			</p>
+            </p>
+            <p>
+                <a href="http://validator.w3.org/check?uri=referer">
+                    <img src="http://www.w3.org/Icons/valid-xhtml10-blue" alt="Valid XHTML 1.0 Transitional" height="31" width="88" />
+                </a>
+            </p>
 		</div>
 	</div>
 

@@ -10,16 +10,16 @@
 		<div class="scroller">
 			<div class="content">
 				<div id="section1" class="section">
-					<img src="sections/section1.jpg" title="Native multitouch"/>
+					<img src="sections/section1.jpg" title="Native multitouch" alt=""/>
 				</div>
 				<div id="section2" class="section">
-					<img src="sections/section2.jpg" title="Lot of customizable widgets"/>
+					<img src="sections/section2.jpg" title="Lot of customizable widgets" alt=""/>
 				</div>
 				<div id="section3" class="section">
-					<img src="sections/section3.jpg" title="More time to be creative !"/>
+					<img src="sections/section3.jpg" title="More time to be creative !" alt=""/>
 				</div>
 				<div id="section4" class="section">
-					<img src="sections/section4.jpg" title="Integrate with other toolkits"/>
+					<img src="sections/section4.jpg" title="Integrate with other toolkits" alt=""/>
 				</div>
 			</div>
 		</div>
@@ -72,7 +72,7 @@
 			</tr>
 		</table>
 
-		<p>You can get the complete list of availables packages on PyPI. Check the <a href="http://pypi.python.org/pypi/PyMT">PyMT PyPI page</a> for more information.
+		<p>You can get the complete list of availables packages on PyPI. Check the <a href="http://pypi.python.org/pypi/PyMT">PyMT PyPI page</a> for more information.</p>
 
 		<h2>Source code</h2>
 
@@ -88,8 +88,8 @@
 	<div class="page-content">
 		<h2>Documentation</h2>
 		<ul>
-			<li><a href="http://pymt.txzone.net/docs/api/">API documentation</a> - Pure-API pages.</a></li>
-			<li><a href="http://pymt.txzone.net/wiki/">Wiki documentation</a> - the most up-to-date documentation content</a></li>
+			<li><a href="http://pymt.txzone.net/docs/api/">API documentation</a> - Pure-API pages.</li>
+			<li><a href="http://pymt.txzone.net/wiki/">Wiki documentation</a> - the most up-to-date documentation content</li>
 			<li><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/Index">Programming Guide</a> - how to start with our toolkit</li>
 		</ul>
 
