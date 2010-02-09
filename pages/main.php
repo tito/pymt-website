@@ -2,10 +2,10 @@
 	<h1>Home</h1>
 	<div id="features-glider">
 		<div class="controls">
-				<a href="#section1" class="active">1</a>
-				<a href="#section2">2</a>
-				<a href="#section3">3</a>
 				<a href="#section4">4</a>
+				<a href="#section3">3</a>
+				<a href="#section2">2</a>
+				<a href="#section1" class="active">1</a>
 		</div>
 		<div class="scroller">
 			<div class="content">

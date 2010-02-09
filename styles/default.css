@@ -145,14 +145,16 @@ div#features-glider div.scroller div.content
 
 div#features-glider div.controls
 {
-	float: right;
-	margin: 20px;
+	position: absolute;
+	text-align: right;
+	width: 790px;
+	margin-top: 10px;
 }
 
 div#features-glider div.controls a
 {
 	display: block;
-	float: left;
+	float: right;
 	background-color: #191919;
 	color: white;
 	letter-spacing: 2px;
@@ -238,6 +240,7 @@ div#features-glider div.controls a.active
 	top: 1.8em;
 	text-align: center;
 	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
 }
 
 #release a
