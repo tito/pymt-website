@@ -123,6 +123,13 @@
 			<li>Side panel - a container that sits on a side of the screen like a drawer</li>
 		</ul>
 
+		<h2>New modules</h2>
+		<ul>
+			<li>Keybinding - use keyboard to do some things like show/hide FPS, show/hide calibration screen, show/hide log, take a screenshot</li>
+			<li>Recordvideo - record the actual output of PyMT screen into image to make a video</li>
+			<li>Mjpegserver - stream the output of PyMT screen through a http server using Mjpeg protocol</li>
+		</ul>
+
 		<h2>Input Improvements</h2>
 		<p>
 			Some improvements were achieved for Windows Seven multitouch support.<br/>
