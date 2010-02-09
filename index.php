@@ -9,8 +9,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>PyMT</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>PyMT : Open source library for multitouch development</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="ROBOTS" content="INDEX, FOLLOW"/>
+	<meta name="description" lang="en" content="PyMT is an open source library for developing multi-touch applications. It is completely cross platform (Linux/OSX/Win) and released under the terms of the GNU LGPL."/>
+	<meta name="description" content="python, multitouch, library, nui, wimp, gstreamer, pygame, module, creativity, interface, ui, pil, multi-touch, wiimote"/>
 	<link rel="stylesheet" type="text/css" href="styles/default.css"/>
 	<script src="styles/prototype.js" type="text/javascript" charset="utf-8"></script> 
 	<script src="styles/effects.js" type="text/javascript" charset="utf-8"></script> 
