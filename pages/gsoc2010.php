@@ -1,7 +1,7 @@
 <div id="gsoc2010" class="page">
 	<h1>GSOC 2010</h1>
 	<div class="page-content">
-		<h2>Informations</h2>
+		<h2>Information</h2>
 		<p>So you want to participate in GSoC2010 for PyMT? Great! Although we certainly value your interest, we have to stress a few requirements that are key to success. Please check the list below and make sure you qualify before you apply. If you are unsure about certain aspects, feel free to contact us (IRC or Mailing List) and we will work it out together. If you cannot repeatedly live up to these expectations, your project will likely be terminated. That means no T-Shirt! :-)</p>
 
 		<p>More information about GSOC on :</p>
@@ -13,7 +13,7 @@
 
 		<!-- Original pasted from our wiki : http://pymt.txzone.net/wiki/index.php/Devel/GSoc2010 -->
 
-		<h2>Projects ideas</h2>
+		<h2>Project ideas</h2>
 			<p>These are just ideas. If you come up with a cool idea on your own, perfect! Please keep in mind that you will be working on it for several months, so the project's difficulty and extent should take that into account. We <strong>will not</strong> accept applications that just copy&amp;paste the ideas below. You can use them as a starting point, but you need to be creative and come up with ideas on your own (need not be necessarily nobel prize worthy). In any case, we expect an <strong>elaborated</strong> text about <strong>your</strong> project idea, <strong>why</strong> you want to do that specific task, <strong>why</strong> you are the best person to do it and <strong>what you think why we should approve your project proposal</strong>.
 
 		</p>
