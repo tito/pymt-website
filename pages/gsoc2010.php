@@ -41,6 +41,7 @@
 		<h3>External tools</h3>
 
 		<ul>
+		<li><strong>Game</strong>: Implement a game (e.g. similar to Desperados) that makes use of 3D for object selection and rendering. E.g., imagine moving characters around on a map and hiding them from enemies. Your characters have a line of sight (calculate e.g. via framebuffer) and must not be seen. This task involves the addition of features to PyMT that are necessary for such a game. While much stuff already works, some things may be missing and it'd be your responsibility to add them.</li>
 		<li><strong>Designer</strong>: Implement a full designer: A way to create and update XML description files for quick and sophisticated UI creation
 		</li><li><strong>Debug suite</strong>. Multitouch is hard to debug, we need tools to save &amp; replay touches and ease the debugging process
 		</li><li><strong>Optimize speed/docs/tests/usability</strong>
