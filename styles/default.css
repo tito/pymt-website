@@ -78,6 +78,18 @@ table th
 	padding: 2px 0px;
 }
 
+#wrapper h3
+{
+	color: white;
+	letter-spacing: 2px;
+	font-family: 'Lucida Grande',Calibri,Verdana,sans-serif;
+	font-weight: 100;
+	margin: 0px;
+	margin-top: 10px;
+	padding: 2px 0px;
+}
+
+
 #wrapper table
 {
 	border-collapse: collapse;
@@ -246,4 +258,12 @@ div#features-glider div.controls a.active
 #release a
 {
 	color: #24eDfF;
+}
+
+.page-content i {
+	color: #909090;
+}
+
+.page-content strong {
+	color: rgb(250, 150, 50);
 }

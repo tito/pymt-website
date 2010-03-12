@@ -1,7 +1,7 @@
 <?php
 	include('common.php');
 	$page = $_GET['page'];
-	$pages = array('main', 'releasenotes');
+	$pages = array('main', 'releasenotes', 'gsoc2010');
 	if ( !in_array($page, $pages) || $page == '')
 		$page = $pages[0];
 ?>
@@ -14,16 +14,16 @@
 	<meta name="ROBOTS" content="INDEX, FOLLOW"/>
 	<meta name="description" lang="en" content="PyMT is an open source library for developing multi-touch applications. It is completely cross platform (Linux/OSX/Win) and released under the terms of the GNU LGPL."/>
 	<meta name="description" content="python, multitouch, library, nui, wimp, gstreamer, pygame, module, creativity, interface, ui, pil, multi-touch, wiimote"/>
-	<link rel="stylesheet" type="text/css" href="styles/default.css"/>
-	<script src="styles/prototype.js" type="text/javascript" charset="utf-8"></script> 
-	<script src="styles/effects.js" type="text/javascript" charset="utf-8"></script> 
-	<script src="styles/glider.js" type="text/javascript" charset="utf-8"></script> 
+	<link rel="stylesheet" type="text/css" href="/styles/default.css"/>
+	<script src="/styles/prototype.js" type="text/javascript" charset="utf-8"></script> 
+	<script src="/styles/effects.js" type="text/javascript" charset="utf-8"></script> 
+	<script src="/styles/glider.js" type="text/javascript" charset="utf-8"></script> 
 </head>
 <body>
 	<div id="wrapper">
 		<div id="header">
 			<div id="logo">
-				<a href="."><img src="styles/logo.png" title="PyMT" alt="Logo PyMT"/></a>
+			<a href="."><img src="/styles/logo<?=(rand()%5>2)?'_blue':''?>.png" title="PyMT" alt="Logo PyMT"/></a>
 			</div>
 			<div id="release">
 				PyMT <?=$version?>, released on <?=$date?>.<br/>
