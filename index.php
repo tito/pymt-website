@@ -22,6 +22,9 @@
 <body>
 	<div id="wrapper">
 		<div id="header">
+			<a href="http://github.com/tito/pymt"><img style="position: absolute; top: 0; right: 0; border: 0;"
+								   src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
+								   alt="Fork me on GitHub" /></a>
 			<div id="logo">
 			<a href="."><img src="/styles/logo<?=(rand()%5>2)?'_blue':''?>.png" title="PyMT" alt="Logo PyMT"/></a>
 			</div>
