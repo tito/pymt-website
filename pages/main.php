@@ -10,16 +10,16 @@
 		<div class="scroller">
 			<div class="content">
 				<div id="section1" class="section">
-					<img src="/sections/section1.jpg" title="Native multitouch" alt=""/>
+					<img src="sections/section1.jpg" title="Native multitouch" alt=""/>
 				</div>
 				<div id="section2" class="section">
-					<img src="/sections/section2.jpg" title="Lot of customizable widgets" alt=""/>
+					<img src="sections/section2.jpg" title="Lot of customizable widgets" alt=""/>
 				</div>
 				<div id="section3" class="section">
-					<img src="/sections/section3.jpg" title="More time to be creative !" alt=""/>
+					<img src="sections/section3.jpg" title="More time to be creative !" alt=""/>
 				</div>
 				<div id="section4" class="section">
-					<img src="/sections/section4.jpg" title="Integrate with other toolkits" alt=""/>
+					<img src="sections/section4.jpg" title="Integrate with other toolkits" alt=""/>
 				</div>
 			</div>
 		</div>
