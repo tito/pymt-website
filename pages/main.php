@@ -46,6 +46,24 @@
 	</div>
 </div>
 
+<div id="example" class="page">
+	<h1>Usage Example</h1>
+	<div class="page-content">
+		<p>
+			Writing PyMT applications is really easy. The shortest usable PyMT program is only two lines long.
+		</p>
+		<p>
+			The following example shows a little more of the framework. The code just draws a filled circle under each touch.
+		</p>
+
+		<? include('example_snippet.html'); ?>
+
+		<p>
+			To get started, take a look at the many examples that come with PyMT!
+		</p>
+	</div>
+</div>
+
 <div id="download" class="page">
 	<h1>Download</h1>
 	<div class="page-content">
