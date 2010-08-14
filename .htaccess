@@ -1,4 +1,5 @@
 Redirect /gsoc /index.php?page=gsoc2010
 Redirect /gsoc2010 /index.php?page=gsoc2010
 Redirect /download /#download
+Redirect /get /#download
 Redirect /latest /index.php?page=releasenotes

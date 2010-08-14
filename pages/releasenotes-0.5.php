@@ -36,47 +36,47 @@
 			Here are some comparisons (the numbers being seconds, less is better):
 		</p>
 
-		<table>
+		<table class="bench">
 		<tr>
 			<th>Test</th>
-			<th><a href="http://paste.pocoo.org/show/225616/">0.3</a></th>
-			<th><a href="http://paste.pocoo.org/show/225617/">0.4</a></th>
-			<th><a href="http://paste.pocoo.org/show/250140/">0.5</a></th>
+			<th class="version"><a href="http://paste.pocoo.org/show/225616/">0.3</a></th>
+			<th class="version"><a href="http://paste.pocoo.org/show/225617/">0.4</a></th>
+			<th class="version"><a href="http://paste.pocoo.org/show/250140/">0.5</a></th>
 		</tr>
 		<tr>
 			<td>Core: label creation (10000 * 10 a-z)</td>
-			<td>-</td>
-			<td>3.35</td>
-			<td>3.30</td>
+			<td class="result">-</td>
+			<td class="result">3.35</td>
+			<td class="result best">3.30</td>
 		</tr>
 		<tr>
 			<td>Graphx: draw lines (50000 x/y) 100 times</td>
-			<td>435.25</td>
-			<td>11.44</td>
-			<td>6.84</td>
+			<td class="result">435.25</td>
+			<td class="result">11.44</td>
+			<td class="result best">6.84</td>
 		</tr>
 		<tr>
 			<td>Graphx: paint line (500 x/y) 100 times</td>
-			<td>30.75</td>
-			<td>19.37</td>
-			<td>15.45</td>
+			<td class="result">30.75</td>
+			<td class="result">19.37</td>
+			<td class="result best">15.45</td>
 		</tr>
 		<tr>
 			<td>Graphx: draw rectangle (50000 rects) 100 times</td>
-			<td>157.76</td>
-			<td>84.54</td>
-			<td>4.46</td>
+			<td class="result">157.76</td>
+			<td class="result">84.54</td>
+			<td class="result best">4.46</td>
 		</tr>
 		<tr>
 			<td>Widget: creation (10000 MTWidgets)</td>
-			<td>0.79</td>
-			<td>0.64</td>
-			<td>0.49</td>
+			<td class="result">0.79</td>
+			<td class="result">0.64</td>
+			<td class="result best">0.49</td>
 		</tr>
 			<td>Widget: event dispatching (1000 on_update calls in 10*1000 MTWidgets)</td>
-			<td>22.62</td>
-			<td>37.88</td>
-			<td>8.96</td>
+			<td class="result">22.62</td>
+			<td class="result">37.88</td>
+			<td class="result best">8.96</td>
 		</tr>
 		</table>
 

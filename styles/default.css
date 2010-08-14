@@ -265,6 +265,26 @@ div#features-glider div.controls a.active
 	color: #24eDfF;
 }
 
+/* bench
+ */
+table.bench td {
+	font-size: 90%;
+	padding: 5px;
+}
+
+table.bench .result
+{
+	text-align: right;
+}
+
+table.bench .best {
+	background-color: #114411;
+}
+
+table.bench th.version {
+	text-align: right !important;
+}
+
 .page-content i {
 	color: #909090;
 }
