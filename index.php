@@ -1,7 +1,11 @@
 <?php
 	include('common.php');
 	$page = $_GET['page'];
-	$pages = array('main', 'releasenotes', 'gsoc2010', 'releasenotes05');
+	$pages = array('main',
+		'releasenotes-0.4',
+		'releasenotes-0.5',
+		'gsoc2010',
+	);
 	if ( !in_array($page, $pages) || $page == '')
 		$page = $pages[0];
 ?>
@@ -30,7 +34,7 @@
 			</div>
 			<div id="release">
 				PyMT <?=$version?>, released on <?=$date?>.<br/>
-				<a href="#download">Download now</a> - <a href="?page=releasenotes">Release notes</a>
+				<a href="/download">Download now</a> - <a href="?page=releasenotes-<?=$version?>">Release notes</a>
 			</div>
 			<div id="menu">
 				<ul>
