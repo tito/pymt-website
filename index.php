@@ -1,7 +1,7 @@
 <?php
 	include('common.php');
 	$page = $_GET['page'];
-	$pages = array('main', 'releasenotes', 'gsoc2010');
+	$pages = array('main', 'releasenotes', 'gsoc2010', 'releasenotes05');
 	if ( !in_array($page, $pages) || $page == '')
 		$page = $pages[0];
 ?>
