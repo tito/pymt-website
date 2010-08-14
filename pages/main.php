@@ -81,21 +81,21 @@
 					<img src="styles/icons/os_linux.png" alt="" title="linux"/>
 					Linux (Ubuntu 9.10, 10.4 and 10.10)
 				</td>
-				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtUbuntu">How to install</a></td>
+				<td><a href="http://pymt.eu/wiki/DevGuide/InstallPymtUbuntu">How to install</a></td>
 			</tr>
 			<tr>
 				<td>
 					<img src="styles/icons/os_macosx.png" alt="" title="macosx"/>
 					MacOSX (10.6)
 				</td>
-				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtMacOSX">How to install</a></td>
+				<td><a href="http://pymt.eu/wiki/DevGuide/InstallPymtMacOSX">How to install</a></td>
 			</tr>
 			<tr>
 				<td>
 					<img src="styles/icons/os_windows7.png" alt="" title="windows7"/>
 					Windows (Seven)
 				</td>
-				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtWindows">How to install</a></td>
+				<td><a href="http://pymt.eu/wiki/DevGuide/InstallPymtWindows">How to install</a></td>
 			</tr>
 		</table>
 
@@ -105,7 +105,7 @@
 
 		<p>
 			We use <a href="http://github.com/">Github</a> for hosting our development version of PyMT.
-			Take a look at our instructions on <a href="http://pymt.txzone.net/wiki/index.php/DevGuide/GrabSourceCode">how to grab the source code</a> on our wiki!
+			Take a look at our instructions on <a href="http://pymt.eu/wiki/DevGuide/GrabSourceCode">how to grab the source code</a> on our wiki!
 		</p>
 	</div>
 </div>
@@ -115,9 +115,9 @@
 	<div class="page-content">
 		<h2>Documentation</h2>
 		<ul>
-			<li><a href="http://pymt.txzone.net/docs/api/">API documentation</a> - Pure-API pages.</li>
-			<li><a href="http://pymt.txzone.net/wiki/">Wiki documentation</a> - the most up-to-date documentation content</li>
-			<li><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/Index">Programming Guide</a> - how to start with our toolkit</li>
+			<li><a href="http://pymt.eu/docs/api/">API documentation</a> - Pure-API pages.</li>
+			<li><a href="http://pymt.eu/wiki/">Wiki documentation</a> - the most up-to-date documentation content</li>
+			<li><a href="http://pymt.eu/wiki/DevGuide/Index">Programming Guide</a> - how to start with our toolkit</li>
 		</ul>
 
 		<h2>Contribute</h2>

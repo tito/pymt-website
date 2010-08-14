@@ -6,12 +6,12 @@
 
 		<p>More information about GSOC on :</p>
 		<ul>
-			<li>Our <a href="http://pymt.txzone.net/wiki/index.php/Devel/GSoc2010">PyMT GSOC 2010 wiki page</a>, specially about Student Infos and Requirements</li>
+			<li>Our <a href="http://pymt.eu/wiki/index.php/Devel/GSoc2010">PyMT GSOC 2010 wiki page</a>, specially about Student Infos and Requirements</li>
 			<li><a href="http://socghop.appspot.com/">GSoc Website</a></li>
 		</ul>
 
 
-		<!-- Original pasted from our wiki : http://pymt.txzone.net/wiki/index.php/Devel/GSoc2010 -->
+		<!-- Original pasted from our wiki : http://pymt.eu/wiki/index.php/Devel/GSoc2010 -->
 
 		<h2>Project ideas</h2>
 <h3>User Interface Projects</h3>

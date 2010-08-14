@@ -149,7 +149,7 @@
 
 		<h2>Documentation</h2>
 		<p>
-			This is still our biggest problem, but we are aware of it. We have started a <a href="http://pymt.txzone.net/wiki/index.php/DevGuide/Index">Developer's Guide</a> (not finished yet) and improved our <a href="http://pymt.txzone.net/docs/api/">API</a> reference.
+			This is still our biggest problem, but we are aware of it. We have started a <a href="http://pymt.eu/wiki/index.php/DevGuide/Index">Developer's Guide</a> (not finished yet) and improved our <a href="http://pymt.eu/docs/api/">API</a> reference.
 		</p>
 
 		<h2>Bugfixes</h2>
