@@ -79,14 +79,14 @@
 			<tr>
 				<td>
 					<img src="styles/icons/os_linux.png" alt="" title="linux"/>
-					Linux (Ubuntu 9.10)
+					Linux (Ubuntu 9.10, 10.4 and 10.10)
 				</td>
 				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtUbuntu">How to install</a></td>
 			</tr>
 			<tr>
 				<td>
 					<img src="styles/icons/os_macosx.png" alt="" title="macosx"/>
-					MacOSX 10.6
+					MacOSX (10.6)
 				</td>
 				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtMacOSX">How to install</a></td>
 			</tr>
