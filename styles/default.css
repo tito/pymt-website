@@ -24,6 +24,11 @@ table tr:hover td
 	background-color: #393939;
 }
 
+table tr td img
+{
+	vertical-align: middle;
+}
+
 table th
 {
 	background-color: #191919;

@@ -77,15 +77,24 @@
 				<th>Instructions</th>
 			</tr>
 			<tr>
-				<td>Linux (Ubuntu 9.10)</td>
+				<td>
+					<img src="styles/icons/os_linux.png" alt="" title="linux"/>
+					Linux (Ubuntu 9.10)
+				</td>
 				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtUbuntu">How to install</a></td>
 			</tr>
 			<tr>
-				<td>MacOSX</td>
+				<td>
+					<img src="styles/icons/os_macosx.png" alt="" title="macosx"/>
+					MacOSX 10.6
+				</td>
 				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtMacOSX">How to install</a></td>
 			</tr>
 			<tr>
-				<td>Windows (Seven, Vista, XP)</td>
+				<td>
+					<img src="styles/icons/os_windows7.png" alt="" title="windows7"/>
+					Windows (Seven)
+				</td>
 				<td><a href="http://pymt.txzone.net/wiki/index.php/DevGuide/InstallPymtWindows">How to install</a></td>
 			</tr>
 		</table>
