@@ -105,6 +105,11 @@ table th
 	text-align: left;
 }
 
+#wrapper img.floatimg {
+	margin: 10px;
+	float: right;
+}
+
 br {
 	clear: both;
 }

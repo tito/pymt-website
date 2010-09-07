@@ -4,6 +4,7 @@
 	$pages = array('main',
 		'releasenotes-0.4',
 		'releasenotes-0.5',
+		'releasenotes-0.5.1',
 		'gsoc2010',
 	);
 	if ( !in_array($page, $pages) || $page == '')

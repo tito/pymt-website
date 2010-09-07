@@ -69,7 +69,7 @@
 	<div class="page-content">
 		<h2>Stable version</h2>
 		<p>
-			The latest stable version is <?=$version?>, released on <?=$date?>. See <a href="?page=releasenotes">Release Notes</a> for more details.
+			The latest stable version is <?=$version?>, released on <?=$date?>. See <a href="?page=releasenotes-<?=$version?>">Release Notes</a> for more details.
 		</p>
 		<table>
 			<tr>
