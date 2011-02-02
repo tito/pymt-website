@@ -25,19 +25,24 @@
 	<script src="styles/glider.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
+	<div id="kivy">
+		<div class="content">
+			Starting a new project? We highly recommend using <a href="http://kivy.org/">Kivy</a> (<a href="http://kivy.org/">http://kivy.org</a>) instead of PyMT. It's the <a href="http://kivy.org/docs/faq.html#how-is-kivy-related-to-pymt">'next generation PyMT !'</a>
+		</div>
+	</div>
 	<div id="wrapper">
 		<div id="header">
-			<a href="http://github.com/tito/pymt"><img style="position: absolute; top: 0; right: 0; border: 0;"
+			<a href="http://github.com/tito/pymt"><img style="position: absolute; top: 50; right: 0; border: 0;"
 								   src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
 								   alt="Fork me on GitHub" /></a>
-			<div id="logo">
-			<a href="."><img src="styles/logo<?=(rand()%5>2)?'_blue':''?>.png" title="PyMT" alt="Logo PyMT"/></a>
-			</div>
-			<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpymt.eu%2F&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px; position:absolute; margin-left: 150px; margin-top: -20px;" allowTransparency="true"></iframe>
 			<div id="release">
 				PyMT <?=$version?>, released on <?=$date?>.<br/>
 				<a href="/download">Download now</a> - <a href="?page=releasenotes-<?=$version?>">Release notes</a>
 			</div>
+			<div id="logo">
+			<a href="."><img src="styles/logo<?=(rand()%5>2)?'_blue':''?>.png" title="PyMT" alt="Logo PyMT"/></a>
+			</div>
+			<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpymt.eu%2F&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=dark&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px; position:absolute; margin-left: 150px; margin-top: -20px;" allowTransparency="true"></iframe>
 			<div id="menu">
 				<ul>
 					<li><a class="home" href="./#home">Home</a></li>
