@@ -27,7 +27,7 @@
 <body>
 	<div id="kivy">
 		<div class="content">
-			Starting a new project? We highly recommend using <a href="http://kivy.org/">Kivy</a> (<a href="http://kivy.org/">http://kivy.org</a>) instead of PyMT. It's the <a href="http://kivy.org/docs/faq.html#how-is-kivy-related-to-pymt">'next generation PyMT !'</a>
+			Starting a new project? We highly recommend using <a href="http://kivy.org/">Kivy</a> (<a href="http://kivy.org/">http://kivy.org</a>) instead of PyMT. It's the <a href="http://kivy.org/docs/faq.html#how-is-kivy-related-to-pymt">'next generation PyMT'!</a>
 		</div>
 	</div>
 	<div id="wrapper">
